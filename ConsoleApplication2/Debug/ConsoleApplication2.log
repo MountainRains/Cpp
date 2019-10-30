@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2.cpp
+  E:\Desktop\GitHub\Cpp\ConsoleApplication2\ConsoleApplication2.cpp(53) : warning C4172: 返回局部变量或临时变量的地址: temp
+  ConsoleApplication2.vcxproj -> E:\Desktop\GitHub\Cpp\ConsoleApplication1\Debug\ConsoleApplication2.exe
